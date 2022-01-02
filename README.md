@@ -1,13 +1,16 @@
 # MovieApp
 ![Social_Media](https://img.shields.io/badge/MovieApp-Kelompok-blue)
 
-##### No Way Home Group:
+<center> <h2> No Way Home Group: </h2> </center>
 
 - Fakhri Fasial
 - Muhamad Taopik
 - Naufal Rizqullah
 - Reyhan Afrizal
 
+# Referensi
+
+- https://rivaldi48.blogspot.com/2020/08/Tutorial-Membuat-Aplikasi-Android-Movie-dengan-API-TheMovieDB.html
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
