@@ -1,7 +1,7 @@
 # MovieApp
 ![Social_Media](https://img.shields.io/badge/MovieApp-Kelompok-blue)
 
-<p align = "center">
+<p align = 'center'>
 <h2> No Way Home Group: </h2>
 </p>
 
