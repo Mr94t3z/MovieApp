@@ -1,7 +1,9 @@
 # MovieApp
 ![Social_Media](https://img.shields.io/badge/MovieApp-Kelompok-blue)
 
-<center> <h2> No Way Home Group: </h2> </center>
+<p align = "center">
+<h2> No Way Home Group: </h2>
+</p>
 
 - Fakhri Fasial
 - Muhamad Taopik
