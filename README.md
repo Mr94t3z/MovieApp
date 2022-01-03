@@ -8,6 +8,8 @@
 - Naufal Rizqullah (1197050095)
 - Reyhan Afrizal (1197050114)
 
+Pengembangan Aplikasi Mobile
+
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-orange)
 
