@@ -1,7 +1,7 @@
 # MovieApp
 ![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-9cf)
 
-Nama kelompok `No Way Home`, berikut list anggota-nya:
+Kelompok `No Way Home`, berikut list anggota-nya:
 
 1. _Fakhri Faishal Rochdiana (1197050040)_
 2. _Muhamad Taopik (1197050081)_
