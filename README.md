@@ -22,6 +22,10 @@ https://bit.ly/3Hy0y9k
 https://developers.themoviedb.org/3/g
 ```
 
+# Layout
+![Layout](https://img.shields.io/badge/MovieApp-Layout-blue)
+
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
