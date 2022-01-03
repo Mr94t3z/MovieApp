@@ -11,7 +11,7 @@
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blue)
 
-- https://rivaldi48.blogspot.com/2020/08/Tutorial-Membuat-Aplikasi-Android-Movie-dengan-API-TheMovieDB.html
+- https://bit.ly/3Hy0y9k
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
