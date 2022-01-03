@@ -11,21 +11,21 @@
 Pengembangan Aplikasi Mobile
 
 # Referensi
-![Referensi](https://img.shields.io/badge/MovieApp-Referensi-orange)
+![Referensi](https://img.shields.io/badge/MovieApp-Referensi-9cf)
 
 ```
 https://bit.ly/3Hy0y9k
 ```
 
 # API Services IMDB
-![API](https://img.shields.io/badge/MovieApp-API-orange)
+![API](https://img.shields.io/badge/MovieApp-API-9cf)
 
 ```
 https://developers.themoviedb.org/3/g
 ```
 
 # Layout
-![Layout](https://img.shields.io/badge/MovieApp-Layout-orange)
+![Layout](https://img.shields.io/badge/MovieApp-Layout-9cf)
 
 Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
@@ -92,7 +92,7 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 ![11](images/11.png)
 
 # Social Media
-![Social_Media](https://img.shields.io/badge/Social-Media-orange)
+![Social_Media](https://img.shields.io/badge/Social-Media-9cf)
 
 y'all can find my `social media` here:
  
