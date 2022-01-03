@@ -3,10 +3,10 @@
 
 Nama kelompok `No Way Home`, berikut list anggota-nya:
 
-1. _Fakhri Faishal Rochdiana `(1197050040)`
-2. _Muhamad Taopik `(1197050081)`
-3. _Naufal Rizqullah `(1197050095)`
-4. _Reyhan Afrizal `(1197050114)`
+1. _Fakhri Faishal Rochdiana `(1197050040)`_
+2. _Muhamad Taopik `(1197050081)`_
+3. _Naufal Rizqullah `(1197050095)`_
+4. _Reyhan Afrizal `(1197050114)`_
 
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-9cf)
