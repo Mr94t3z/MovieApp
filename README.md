@@ -13,16 +13,12 @@ Pengembangan Aplikasi Mobile
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-9cf)
 
-```
-https://bit.ly/3Hy0y9k
-```
+Referensi diambil dari [sini](https://bit.ly/3Hy0y9k).
 
 # API Services IMDB
 ![API](https://img.shields.io/badge/MovieApp-API-9cf)
 
-```
-https://developers.themoviedb.org/3/g
-```
+API tersebut diambil dari [sini](https://developers.themoviedb.org/3/g).
 
 # Layout
 ![Layout](https://img.shields.io/badge/MovieApp-Layout-9cf)
