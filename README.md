@@ -1,8 +1,6 @@
 # MovieApp
 ![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-9cf)
 
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
-
 
 ### No Way Home Group:
 
