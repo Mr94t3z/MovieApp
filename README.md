@@ -1,5 +1,5 @@
 # MovieApp
-![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-orange)
+![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-9cf)
 
 ### No Way Home Group:
 
