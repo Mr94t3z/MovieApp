@@ -3,7 +3,7 @@
 
 ### No Way Home Group:
 
-- Fakhri Faishal Rochdiana (NIM)
+- Fakhri Faishal Rochdiana (1197050040)
 - Muhamad Taopik (1197050081)
 - Naufal Rizqullah (NIM)
 - Reyhan Afrizal (NIM)
