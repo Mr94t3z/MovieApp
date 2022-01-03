@@ -1,5 +1,5 @@
 # MovieApp
-![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-blue)
+![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-blueviolet)
 
 ### No Way Home Group:
 
@@ -9,88 +9,88 @@
 - Reyhan Afrizal (1197050114)
 
 # Referensi
-![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blue)
+![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blueviolet)
 
 ```
 https://bit.ly/3Hy0y9k
 ```
 
 # API Services IMDB
-![API](https://img.shields.io/badge/MovieApp-API-blue)
+![API](https://img.shields.io/badge/MovieApp-API-blueviolet)
 
 ```
 https://developers.themoviedb.org/3/g
 ```
 
 # Layout
-![Layout](https://img.shields.io/badge/MovieApp-Layout-blue)
+![Layout](https://img.shields.io/badge/MovieApp-Layout-blueviolet)
 
 Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 <h4>1. Tampilan Movie</h4>
 
-![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-blueviolet)
+![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-blue)
 
 ![1](images/1.png)
 
 <h4>2. Tampilan Search Movie</h4>
 
-![Search_Movie](https://img.shields.io/badge/MovieApp-Search%20Movie-blueviolet)
+![Search_Movie](https://img.shields.io/badge/MovieApp-Search%20Movie-blue)
 
 ![2](images/2.png)
 
 <h4>3. Tampilan Detail Movie</h4>
 
-![Detail_Movie](https://img.shields.io/badge/MovieApp-Detail%20Movie-blueviolet)
+![Detail_Movie](https://img.shields.io/badge/MovieApp-Detail%20Movie-blue)
 
 ![3](images/3.png)
 
 <h4>4. Tampilan Add Movie to Favorite</h4>
 
-![Add_Movie_to_Favorite](https://img.shields.io/badge/MovieApp-Add%20to%20Movie%20Favorite-blueviolet)
+![Add_Movie_to_Favorite](https://img.shields.io/badge/MovieApp-Add%20to%20Movie%20Favorite-blue)
 
 ![4](images/4.png)
 
 <h4>5. Tampilan Share Movie</h4>
 
-![Share_Movie](https://img.shields.io/badge/MovieApp-Share%20Movie-blueviolet)
+![Share_Movie](https://img.shields.io/badge/MovieApp-Share%20Movie-blue)
 
 ![5](images/5.png)
 
 <h4>6. Tampilan Tv Show</h4>
 
-![Halaman_Tv_Show](https://img.shields.io/badge/MovieApp-Halaman%20Tv%20Show-blueviolet)
+![Halaman_Tv_Show](https://img.shields.io/badge/MovieApp-Halaman%20Tv%20Show-blue)
 
 ![6](images/6.png)
 
 <h4>7. Tampilan Search Tv Show</h4>
 
-![Search_Tv_Show](https://img.shields.io/badge/MovieApp-Search%20Tv%20Show-blueviolet)
+![Search_Tv_Show](https://img.shields.io/badge/MovieApp-Search%20Tv%20Show-blue)
 
 ![7](images/7.png)
 
 <h4>8. Tampilan Favorite Movie dan Tv Show</h4>
 
-![Favorite_Movie](https://img.shields.io/badge/MovieApp-Favorite%20Movie-blueviolet)
+![Favorite_Movie](https://img.shields.io/badge/MovieApp-Favorite%20Movie-blue)
 
 ![8](images/8.png)
 
-![Favorite_Tv_Show](https://img.shields.io/badge/MovieApp-Favorite%20Tv%20Show-blueviolet)
+![Favorite_Tv_Show](https://img.shields.io/badge/MovieApp-Favorite%20Tv%20Show-blue)
 
 ![9](images/9.png)
 
 <h4>9. Tampilan Remove Favorite Movie</h4>
 
-![Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Remove%20Favorite%20Movie-blueviolet)
+![Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Remove%20Favorite%20Movie-blue)
 
 ![10](images/10.png)
 
-![Hasil_Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Hasil%20Remove%20Favorite%20Movie-blueviolet)
+![Hasil_Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Hasil%20Remove%20Favorite%20Movie-blue)
 
 ![11](images/11.png)
 
 # Social Media
-![Social_Media](https://img.shields.io/badge/Social-Media-blue)
+![Social_Media](https://img.shields.io/badge/Social-Media-blueviolet)
 
 y'all can find my `social media` here:
  
