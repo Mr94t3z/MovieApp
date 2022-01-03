@@ -15,7 +15,7 @@
 https://bit.ly/3Hy0y9k
 ```
 
-# API IMDB
+# API Services IMDB
 ![API](https://img.shields.io/badge/MovieApp-API-blue)
 
 ```
@@ -32,6 +32,12 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 ![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-red)
 
 ![1](images/1.png)
+
+<h4>2. Tampilan Search Movie</h4>
+
+![Search_Movie](https://img.shields.io/badge/MovieApp-Search%20Movie-red)
+
+![2](images/2.png)
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
