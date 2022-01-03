@@ -14,19 +14,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:text="Halo,\nMuhamad Taopik"
+            android:text="Halo,\nViewers"
             android:textColor="@android:color/white"
             android:textSize="16sp" />
-
-        <ImageView
-            android:id="@+id/imgNotification"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:layout_centerVertical="true"
-            android:layout_marginEnd="-60dp"
-            android:padding="15dp"
-            android:src="@drawable/ic_notification" />
 
     </RelativeLayout>
 

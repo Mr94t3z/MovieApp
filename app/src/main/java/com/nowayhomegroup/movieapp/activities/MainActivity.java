@@ -41,14 +41,6 @@ public class MainActivity extends AppCompatActivity {
             getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
         }
 
-        imgNotification = findViewById(R.id.imgNotification);
-        imgNotification.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, SettingActivity.class);
-                startActivity(intent);
-            }
-        });
 
         BubbleNavigationLinearView navigationBar = findViewById(R.id.navigationBar);
 
