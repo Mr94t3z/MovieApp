@@ -3,7 +3,7 @@
 
 ### No Way Home Group:
 
-- Fakhri Faisal
+- Fakhri Faishal Rochdiana
 - Muhamad Taopik
 - Naufal Rizqullah
 - Reyhan Afrizal
