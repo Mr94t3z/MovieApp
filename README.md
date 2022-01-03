@@ -29,63 +29,63 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 <h4>1. Tampilan Movie</h4>
 
-![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-red)
+![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-blueviolet)
 
 ![1](images/1.png)
 
 <h4>2. Tampilan Search Movie</h4>
 
-![Search_Movie](https://img.shields.io/badge/MovieApp-Search%20Movie-red)
+![Search_Movie](https://img.shields.io/badge/MovieApp-Search%20Movie-blueviolet)
 
 ![2](images/2.png)
 
 <h4>3. Tampilan Detail Movie</h4>
 
-![Detail_Movie](https://img.shields.io/badge/MovieApp-Detail%20Movie-red)
+![Detail_Movie](https://img.shields.io/badge/MovieApp-Detail%20Movie-blueviolet)
 
 ![3](images/3.png)
 
 <h4>4. Tampilan Add Movie to Favorite</h4>
 
-![Add_Movie_to_Favorite](https://img.shields.io/badge/MovieApp-Add%20to%20Movie%20Favorite-red)
+![Add_Movie_to_Favorite](https://img.shields.io/badge/MovieApp-Add%20to%20Movie%20Favorite-blueviolet)
 
 ![4](images/4.png)
 
 <h4>5. Tampilan Share Movie</h4>
 
-![Share_Movie](https://img.shields.io/badge/MovieApp-Share%20Movie-red)
+![Share_Movie](https://img.shields.io/badge/MovieApp-Share%20Movie-blueviolet)
 
 ![5](images/5.png)
 
 <h4>6. Tampilan Tv Show</h4>
 
-![Halaman_Tv_Show](https://img.shields.io/badge/MovieApp-Halaman%20Tv%20Show-red)
+![Halaman_Tv_Show](https://img.shields.io/badge/MovieApp-Halaman%20Tv%20Show-blueviolet)
 
 ![6](images/6.png)
 
 <h4>7. Tampilan Search Tv Show</h4>
 
-![Search_Tv_Show](https://img.shields.io/badge/MovieApp-Search%20Tv%20Show-red)
+![Search_Tv_Show](https://img.shields.io/badge/MovieApp-Search%20Tv%20Show-blueviolet)
 
 ![7](images/7.png)
 
 <h4>8. Tampilan Favorite Movie dan Tv Show</h4>
 
-![Favorite_Movie](https://img.shields.io/badge/MovieApp-Favorite%20Movie-red)
+![Favorite_Movie](https://img.shields.io/badge/MovieApp-Favorite%20Movie-blueviolet)
 
 ![8](images/8.png)
 
-![Favorite_Tv_Show](https://img.shields.io/badge/MovieApp-Favorite%20Tv%20Show-red)
+![Favorite_Tv_Show](https://img.shields.io/badge/MovieApp-Favorite%20Tv%20Show-blueviolet)
 
 ![9](images/9.png)
 
 <h4>9. Tampilan Remove Favorite Movie</h4>
 
-![Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Remove%20Favorite%20Movie-red)
+![Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Remove%20Favorite%20Movie-blueviolet)
 
 ![10](images/10.png)
 
-![Hasil_Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Hasil%20Remove%20Favorite%20Movie-red)
+![Hasil_Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Hasil%20Remove%20Favorite%20Movie-blueviolet)
 
 ![11](images/11.png)
 
