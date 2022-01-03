@@ -5,8 +5,8 @@
 
 - Fakhri Faishal Rochdiana (1197050040)
 - Muhamad Taopik (1197050081)
-- Naufal Rizqullah (NIM)
-- Reyhan Afrizal (NIM)
+- Naufal Rizqullah (1197050095)
+- Reyhan Afrizal (1197050114)
 
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blue)
