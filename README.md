@@ -51,11 +51,23 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 ![4](images/4.png)
 
-<h4>5. Tampilan Sahre Movie</h4>
+<h4>5. Tampilan Share Movie</h4>
 
 ![Share_Movie](https://img.shields.io/badge/MovieApp-Share%20Movie-red)
 
 ![5](images/5.png)
+
+<h4>6. Tampilan Tv Show</h4>
+
+![Halaman_Tv_Show](https://img.shields.io/badge/MovieApp-Halaman%20Tv%20Show-red)
+
+![6](images/6.png)
+
+<h4>7. Tampilan Search Tv Show</h4>
+
+![Search_Tv_Show](https://img.shields.io/badge/MovieApp-Search%20Tv%20Show-red)
+
+![7](images/7.png)
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
