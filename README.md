@@ -3,10 +3,10 @@
 
 ### No Way Home Group:
 
-- Fakhri Faishal Rochdiana
-- Muhamad Taopik
-- Naufal Rizqullah
-- Reyhan Afrizal
+- Fakhri Faishal Rochdiana (NIM)
+- Muhamad Taopik (1197050081)
+- Naufal Rizqullah (NIM)
+- Reyhan Afrizal (NIM)
 
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blue)
