@@ -25,6 +25,13 @@ https://developers.themoviedb.org/3/g
 # Layout
 ![Layout](https://img.shields.io/badge/MovieApp-Layout-blue)
 
+Berikut beberapa tampilan pada aplikasi `MovieApp`.
+
+<h4>1. Tampilan Movie</h4>
+
+![Halaman_Movie](https://img.shields.io/badge/MovieApp-Halaman%20Movie-red)
+
+![1](images/1.png)
 
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
