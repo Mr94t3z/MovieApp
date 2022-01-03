@@ -69,6 +69,16 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 ![7](images/7.png)
 
+<h4>8. Tampilan Favorite Movie dan Tv Show</h4>
+
+![Favorite_Movie](https://img.shields.io/badge/MovieApp-Favorite%20Movie-red)
+
+![8](images/8.png)
+
+![Favorite_Tv_Show](https://img.shields.io/badge/MovieApp-Favorite%20Tv%20Show-red)
+
+![9](images/9.png)
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
