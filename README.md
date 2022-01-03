@@ -39,6 +39,18 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 ![2](images/2.png)
 
+<h4>3. Tampilan Detail Movie</h4>
+
+![Detail_Movie](https://img.shields.io/badge/MovieApp-Detail%20Movie-red)
+
+![3](images/3.png)
+
+<h4>4. Tampilan Add Movie to Favorite</h4>
+
+![Detail_Movie](https://img.shields.io/badge/MovieApp-Add%20to%20Movie%20Favorite-red)
+
+![4](images/4.png)
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
