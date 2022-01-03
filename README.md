@@ -13,6 +13,11 @@
 
 - https://bit.ly/3Hy0y9k
 
+# API IMDB
+![API](https://img.shields.io/badge/MovieApp-API-blue)
+
+- https://developers.themoviedb.org/3/g
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
