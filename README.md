@@ -1,5 +1,5 @@
 # MovieApp
-![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-blueviolet)
+![MovieApp](https://img.shields.io/badge/MovieApp-Kelompok-orange)
 
 ### No Way Home Group:
 
@@ -9,21 +9,21 @@
 - Reyhan Afrizal (1197050114)
 
 # Referensi
-![Referensi](https://img.shields.io/badge/MovieApp-Referensi-blueviolet)
+![Referensi](https://img.shields.io/badge/MovieApp-Referensi-orange)
 
 ```
 https://bit.ly/3Hy0y9k
 ```
 
 # API Services IMDB
-![API](https://img.shields.io/badge/MovieApp-API-blueviolet)
+![API](https://img.shields.io/badge/MovieApp-API-orange)
 
 ```
 https://developers.themoviedb.org/3/g
 ```
 
 # Layout
-![Layout](https://img.shields.io/badge/MovieApp-Layout-blueviolet)
+![Layout](https://img.shields.io/badge/MovieApp-Layout-orange)
 
 Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
@@ -90,7 +90,7 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 ![11](images/11.png)
 
 # Social Media
-![Social_Media](https://img.shields.io/badge/Social-Media-blueviolet)
+![Social_Media](https://img.shields.io/badge/Social-Media-orange)
 
 y'all can find my `social media` here:
  
