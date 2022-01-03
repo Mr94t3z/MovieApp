@@ -79,6 +79,16 @@ Berikut beberapa tampilan pada aplikasi `MovieApp`.
 
 ![9](images/9.png)
 
+<h4>9. Tampilan Remove Favorite Movie</h4>
+
+![Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Remove%20Favorite%20Movie-red)
+
+![10](images/10.png)
+
+![Hasil_Remove_Favorite_Movie](https://img.shields.io/badge/MovieApp-Hasil%20Remove%20Favorite%20Movie-red)
+
+![11](images/11.png)
+
 # Social Media
 ![Social_Media](https://img.shields.io/badge/Social-Media-blue)
 
