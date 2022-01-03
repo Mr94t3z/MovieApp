@@ -4,12 +4,10 @@
 
 ### No Way Home Group:
 
-- Fakhri Faishal Rochdiana (1197050040)
-- Muhamad Taopik (1197050081)
-- Naufal Rizqullah (1197050095)
-- Reyhan Afrizal (1197050114)
-
-Pengembangan Aplikasi Mobile
+1. Fakhri Faishal Rochdiana (1197050040)
+2. Muhamad Taopik (1197050081)
+3. Naufal Rizqullah (1197050095)
+4. Reyhan Afrizal (1197050114)
 
 # Referensi
 ![Referensi](https://img.shields.io/badge/MovieApp-Referensi-9cf)
