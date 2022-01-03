@@ -15,7 +15,7 @@ Pengembangan Aplikasi Mobile
 
 Referensi diambil dari [sini](https://bit.ly/3Hy0y9k).
 
-or
+***atau***
 
 ```
 https://bit.ly/3Hy0y9k
@@ -26,7 +26,7 @@ https://bit.ly/3Hy0y9k
 
 API tersebut diambil dari [sini](https://developers.themoviedb.org/3/g).
 
-or
+***atau***
 
 ```
 https://developers.themoviedb.org/3/g
